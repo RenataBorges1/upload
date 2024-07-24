@@ -51,7 +51,7 @@ const servidor = http.createServer((req, res) => {
                 </head>
                 <body>
       <h1>Restrito!</h1>
-      <p>Acesso apenas para a mestra.</p>
+      <p>Acesso apenas para a mestra!</p>
       <img src="https://game-icons.net/icons/ffffff/000000/1x1/lorc/wooden-door.svg" alt="Desenho de uma porta trancada." />
       
     <br>
